@@ -1,7 +1,7 @@
 🚖 Transportation Data Engineering Project
 Databricks LakeFlow Declarative Pipelines (SDP) | PySpark | Delta Lake | AWS S3 | Unity Catalog
 
-
+--------------------------------------------------------------------------------------
 
 
 📌 Project Overview
@@ -17,7 +17,7 @@ Eliminate manual orchestration
 Support incremental processing
 Improve data quality and trust
 Deliver BI-ready datasets for regional managers
-
+---------------------------------------------------------------------------------------
 🛠️ Technology Stack
 Technology	Purpose
 Databricks LakeFlow SDP	Pipeline Orchestration
@@ -27,6 +27,8 @@ AWS S3	Raw Data Storage
 Unity Catalog	Governance & Security
 Delta CDF	Change Data Capture
 GitHub	Version Control
+
+----------------------------------------------------------------------------------------------
 📂 Medallion Architecture
 🥉 Bronze Layer
 
